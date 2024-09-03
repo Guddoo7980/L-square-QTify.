@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "build",
+			"path": "L-square-QTify-master",
+			"group": "build",
+			"problemMatcher": [],
+			"label": "npm: build - L-square-QTify-master",
+			"detail": "react-scripts build"
+		}
+	]
+}
